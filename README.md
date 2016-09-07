@@ -12,7 +12,7 @@ There is a chinese address dataset in data/address.txt, you can play with it, or
 
 ##2.How to run
 python train.py --data-path data/address.txt --model-path train
-
+for more options: python train.py -h
 
 
 
